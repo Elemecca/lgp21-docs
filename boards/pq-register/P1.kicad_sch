@@ -1255,6 +1255,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "P1"
+		(exclude_from_sim no)
+		(at 166.37 40.64 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+		)
+		(uuid "ae597485-24dc-4d38-b218-506b0c31029f")
+	)
 	(junction
 		(at 107.95 168.91)
 		(diameter 0)
@@ -3591,6 +3601,26 @@
 		)
 		(uuid "fffbc004-4767-4fbb-82f9-14cc0332dc21")
 	)
+	(label "~{P1'}"
+		(at 196.85 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4897c1d8-f8fb-4219-a193-efcbb98931ac")
+	)
+	(label "P1'"
+		(at 133.35 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4dd443b2-83c6-420d-bfb3-ecffa15e23e8")
+	)
 	(global_label "T3"
 		(shape input)
 		(at 34.29 105.41 180)
@@ -3831,7 +3861,7 @@
 			)
 		)
 	)
-	(global_label "P1a"
+	(global_label "P1b"
 		(shape input)
 		(at 85.09 167.64 180)
 		(fields_autoplaced yes)
@@ -4239,7 +4269,7 @@
 			)
 		)
 	)
-	(hierarchical_label "~{Q}"
+	(hierarchical_label "~{P1_{S}}"
 		(shape output)
 		(at 214.63 30.48 0)
 		(effects
@@ -4250,7 +4280,7 @@
 		)
 		(uuid "4c93ba41-8d7a-48a7-a33d-c97e7f674880")
 	)
-	(hierarchical_label "Q"
+	(hierarchical_label "P1_{S}"
 		(shape output)
 		(at 214.63 43.18 0)
 		(effects

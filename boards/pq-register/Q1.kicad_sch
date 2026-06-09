@@ -1140,6 +1140,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Q1"
+		(exclude_from_sim no)
+		(at 217.17 35.56 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+		)
+		(uuid "de3f2239-06be-4188-9a1a-9cfbd044a049")
+	)
 	(junction
 		(at 147.32 147.32)
 		(diameter 0)
@@ -3691,6 +3701,26 @@
 			(type default)
 		)
 		(uuid "fcf33bd4-f56c-430b-ac55-51075961b31a")
+	)
+	(label "Q1'"
+		(at 184.15 62.23 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a341fd7d-4246-447d-b155-5da112f838d1")
+	)
+	(label "~{Q1'}"
+		(at 247.65 62.23 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a7389288-1a77-47cc-bdf0-1ed964f6b674")
 	)
 	(global_label "~{Tb3}"
 		(shape input)

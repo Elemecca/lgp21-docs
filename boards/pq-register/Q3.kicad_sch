@@ -1255,6 +1255,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Q3"
+		(exclude_from_sim no)
+		(at 167.64 66.04 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+		)
+		(uuid "0ae11ea1-4de9-4367-892c-45c19e1f24d8")
+	)
 	(junction
 		(at 157.48 92.71)
 		(diameter 0)
@@ -1274,16 +1284,16 @@
 		(uuid "23e02768-f0da-4a79-bffc-581e5aa17cf5")
 	)
 	(junction
+		(at 181.61 120.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2c0f7617-f2d8-45ec-8089-50e0a0291086")
+	)
+	(junction
 		(at 157.48 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2ccb5913-8845-43c5-ae13-59fd9229f632")
-	)
-	(junction
-		(at 181.61 120.65)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "312a56bf-fc16-44d9-848a-7a51de62b978")
 	)
 	(junction
 		(at 193.04 71.12)
@@ -1477,6 +1487,10 @@
 		(color 0 0 0 0)
 		(uuid "ff5b62ac-4dac-4502-a68a-d5594ac01efc")
 	)
+	(no_connect
+		(at 33.02 115.57)
+		(uuid "e016ed9f-e29e-4c68-a336-83f7afdb8559")
+	)
 	(wire
 		(pts
 			(xy 167.64 127) (xy 167.64 124.46)
@@ -1639,7 +1653,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 120.65) (xy 181.61 120.65)
+			(xy 203.2 120.65) (xy 181.61 120.65)
 		)
 		(stroke
 			(width 0)
@@ -1699,7 +1713,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 92.71) (xy 199.39 120.65)
+			(xy 203.2 92.71) (xy 203.2 120.65)
 		)
 		(stroke
 			(width 0)
@@ -1729,7 +1743,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 92.71) (xy 199.39 92.71)
+			(xy 195.58 92.71) (xy 203.2 92.71)
 		)
 		(stroke
 			(width 0)
@@ -2617,15 +2631,25 @@
 		)
 		(uuid "fe588284-1da3-44c5-a4d2-9af4c4a0e657")
 	)
-	(label "~{Q3}"
-		(at 127 50.8 0)
+	(label "Q3'"
+		(at 134.62 92.71 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "c144874c-b11b-4f69-bdeb-e3b8274117f3")
+		(uuid "7e360cde-9972-4263-bd11-62fd555eddcb")
+	)
+	(label "~{Q3'}"
+		(at 198.12 92.71 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "be21cefe-9191-4831-90ed-ce54e671d183")
 	)
 	(global_label "~{Q3}"
 		(shape input)

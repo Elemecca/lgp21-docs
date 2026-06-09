@@ -1140,6 +1140,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "P2"
+		(exclude_from_sim no)
+		(at 177.8 82.55 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+		)
+		(uuid "54a6de52-0d7b-4932-b5b5-35297316f4c3")
+	)
 	(junction
 		(at 187.96 109.22)
 		(diameter 0)
@@ -1174,7 +1184,7 @@
 		(at 121.92 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "27bb14bf-b3d3-4b47-b1d7-6bb4ee8470b0")
+		(uuid "2b59b50b-d420-4438-9b49-762f31cc0fd3")
 	)
 	(junction
 		(at 187.96 92.71)
@@ -1243,12 +1253,6 @@
 		(uuid "a4fadb02-9e8b-4c52-99ca-6f4796b4611c")
 	)
 	(junction
-		(at 214.63 85.09)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a5dc60a9-eeac-4dc7-8b66-39156ff532c4")
-	)
-	(junction
 		(at 167.64 87.63)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1259,12 +1263,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a75a7aa9-0a95-4934-a56e-d15475bdbf17")
-	)
-	(junction
-		(at 214.63 63.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b88eab40-199e-4054-a6f3-6f631a822794")
 	)
 	(junction
 		(at 162.56 92.71)
@@ -1343,16 +1341,6 @@
 			(type default)
 		)
 		(uuid "0539d879-7714-43bf-8cd3-8de7123389a4")
-	)
-	(wire
-		(pts
-			(xy 218.44 68.58) (xy 214.63 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "055834d6-8976-47b8-9d7e-5ae11c050f92")
 	)
 	(wire
 		(pts
@@ -1506,16 +1494,6 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 90.17) (xy 214.63 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2e02d7e4-6f78-494b-a9e6-4a63b39f388c")
-	)
-	(wire
-		(pts
 			(xy 68.58 129.54) (xy 71.12 129.54)
 		)
 		(stroke
@@ -1656,7 +1634,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 63.5) (xy 139.7 63.5)
+			(xy 139.7 63.5) (xy 218.44 63.5)
 		)
 		(stroke
 			(width 0)
@@ -1673,16 +1651,6 @@
 			(type default)
 		)
 		(uuid "4b763df9-6630-46e8-b34d-3378a0fe703d")
-	)
-	(wire
-		(pts
-			(xy 218.44 63.5) (xy 214.63 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4c488500-245e-4bf5-bc62-18fd74be5f1c")
 	)
 	(wire
 		(pts
@@ -1716,7 +1684,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 85.09) (xy 218.44 85.09)
+			(xy 203.2 85.09) (xy 218.44 85.09)
 		)
 		(stroke
 			(width 0)
@@ -1756,7 +1724,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 109.22) (xy 208.28 121.92)
+			(xy 213.36 109.22) (xy 213.36 121.92)
 		)
 		(stroke
 			(width 0)
@@ -1766,7 +1734,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 121.92) (xy 208.28 121.92)
+			(xy 121.92 121.92) (xy 213.36 121.92)
 		)
 		(stroke
 			(width 0)
@@ -1833,16 +1801,6 @@
 			(type default)
 		)
 		(uuid "8288bb70-a8c2-4b78-aece-23c2d42016eb")
-	)
-	(wire
-		(pts
-			(xy 203.2 85.09) (xy 214.63 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8481d8d1-6deb-48bc-b11f-78c9f0226a8d")
 	)
 	(wire
 		(pts
@@ -1913,26 +1871,6 @@
 			(type default)
 		)
 		(uuid "96b16904-a519-4b13-8a3b-e803b82e3a62")
-	)
-	(wire
-		(pts
-			(xy 214.63 90.17) (xy 214.63 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9a18bb54-970a-4fb7-9066-ac1aad228904")
-	)
-	(wire
-		(pts
-			(xy 214.63 68.58) (xy 214.63 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a2d13567-07ee-4fa8-9794-477d96ecd554")
 	)
 	(wire
 		(pts
@@ -2166,7 +2104,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 109.22) (xy 208.28 109.22)
+			(xy 205.74 109.22) (xy 213.36 109.22)
 		)
 		(stroke
 			(width 0)
@@ -2203,6 +2141,26 @@
 			(type default)
 		)
 		(uuid "fedeb320-137c-4aa7-9b3a-5f888917d188")
+	)
+	(label "~{P2'}"
+		(at 208.28 109.22 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "365c2a26-c279-44bd-a908-bb49d4a7b886")
+	)
+	(label "P2'"
+		(at 144.78 109.22 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "85ccc194-0ecb-42f2-911c-d802c0daac17")
 	)
 	(global_label "~{P2c}"
 		(shape input)
@@ -2372,7 +2330,7 @@
 			)
 		)
 	)
-	(hierarchical_label "~{D}"
+	(hierarchical_label "~{P1_{S}}"
 		(shape input)
 		(at 59.69 124.46 180)
 		(effects
@@ -2383,7 +2341,7 @@
 		)
 		(uuid "12816298-2ddb-4ac0-be07-819166406afd")
 	)
-	(hierarchical_label "D"
+	(hierarchical_label "P1_{S}"
 		(shape input)
 		(at 59.69 87.63 180)
 		(effects
@@ -2393,28 +2351,6 @@
 			(justify right)
 		)
 		(uuid "5050dd7c-bfa1-4fdb-9db5-b36e402d6fa6")
-	)
-	(hierarchical_label "~{Q}"
-		(shape output)
-		(at 218.44 68.58 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "6157706e-8254-4fa0-b07e-c856e4b6f147")
-	)
-	(hierarchical_label "Q"
-		(shape output)
-		(at 218.44 90.17 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c5f51ce5-0a56-4c90-b678-23b68297b3f7")
 	)
 	(symbol
 		(lib_id "Device:C_Small_US")
