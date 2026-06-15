@@ -1,7 +1,11 @@
+# SPDX-FileCopyrightText: 2026 Sam Hanes
+# SPDX-License-Identifier: CC0-1.0
+
+# publication outputs
+dist/
 
 # KiCAD backups and working files
 /boards/*/*-backups/
-/boards/*/dist/
 /boards/*/fp-info-cache
 /boards/*/#auto_saved_files#
 /boards/*/_autosave-*

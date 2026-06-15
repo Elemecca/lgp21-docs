@@ -1,0 +1,28 @@
+version = 1
+
+[[annotations]]
+path = "*/*.kicad_sch"
+precedence = "override"
+SPDX-FileCopyrightText = [
+    "1962 General Precision, Inc.",
+    "2026 Sam Hanes",
+]
+SPDX-License-Identifier = "LicenseRef-GeneralPrecision AND CC0-1.0"
+SPDX-LicenseComments = """
+  This schematic was re-drawn from the LGP-21 Maintenance and Training Manual
+  (document ESD 1060) published by General Precision, Inc in 1963.
+  The original does not include a copyright notice or license information.
+
+  This schematic was re-drawn in 2026 by Sam Hanes. To the extent that this
+  re-drawing constitutes an original work of authorship with copyright
+  protection, I dedicate that work to the public domain via CC0.
+  """
+
+[[annotations]]
+path = [
+    "sch_frame.kicad_wks",
+    "*/*.kicad_pro",
+    "*/*.kicad_pcb",
+]
+SPDX-FileCopyrightText = "2026 Sam Hanes"
+SPDX-License-Identifier = "CC0-1.0"

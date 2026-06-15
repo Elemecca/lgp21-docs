@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
+<!--
+SPDX-FileCopyrightText: 1962 General Precision, Inc.
+SPDX-FileCopyrightText: 2026 Sam Hanes
+SPDX-License-Identifier: LicenseRef-GeneralPrecision AND CC0-1.0
+SPDX-LicenseComments:
+  This diagram is traced from the LGP-21 Maintenance and Training Manual
+  (document ESD 1060) published by General Precision, Inc. The original
+  document does not include a copyright notice or license information.
+  The drawing is dated 1962 and the book was published in 1963.
+  
+  The diagram was traced in 2026 by Sam Hanes. To the extent that this
+  tracing constitutes an original work of authorship with copyright
+  protection, I dedicate that work to the public domain via CC0.
+-->
+
 <svg
    width="34in"
    height="22in"
@@ -10,13 +25,17 @@
    xml:space="preserve"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    sodipodi:docname="LGP-21 Flexowriter Schematic.svg"
-   inkscape:export-filename="LGP-21 Flexowriter Schematic draft 2026-06-15.pdf"
+   inkscape:export-filename="dist/LGP-21 Flexowriter Schematic.pdf"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><title
+     id="title889">LGP-21 Flexowriter Schematic</title><sodipodi:namedview
      id="namedview1"
      pagecolor="#ffffff"
      bordercolor="#000000"
@@ -35,7 +54,8 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2"
-     showguides="true" /><defs
+     showguides="true"
+     showgrid="false" /><defs
      id="defs1"><marker
        style="overflow:visible"
        id="RoundedArrow"
@@ -8996,7 +9016,7 @@
          id="tspan134"
          style="stroke:#000000;stroke-width:0.5"
          x="104.15125"
-         y="466.31729"></tspan></text><text
+         y="466.31729" /></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.81px;line-height:1;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';writing-mode:lr-tb;direction:ltr;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.508;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        x="102.79498"
@@ -9245,7 +9265,7 @@
          id="tspan135"
          style="stroke:#000000;stroke-width:0.5"
          x="120.96455"
-         y="453.41373"></tspan></text><g
+         y="453.41373" /></text><g
        id="layer2-8"
        transform="translate(13.366817,-12.435394)"><text
          xml:space="preserve"
@@ -9267,7 +9287,7 @@
          id="tspan161"
          style="fill:#000000;stroke-width:0.5"
          x="144.75085"
-         y="491.98843"></tspan></text><text
+         y="491.98843" /></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.81px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
        x="144.2592"
@@ -11525,64 +11545,64 @@
          y="130.20522">TB</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.81px;line-height:0.9;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
-       x="314.94794"
-       y="202.9968"
+       x="316.00629"
+       y="203.52596"
        id="text475"><tspan
          sodipodi:role="line"
          id="tspan475"
          style="fill:#000000;stroke-width:0.5"
-         x="314.94794"
-         y="202.9968">KPE</tspan></text><text
+         x="316.00629"
+         y="203.52596">KPE</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.81px;line-height:0.9;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
-       x="315.85635"
-       y="208.70619"
+       x="316.11234"
+       y="208.65837"
        id="text476"><tspan
          sodipodi:role="line"
          id="tspan476"
          style="fill:#000000;stroke-width:0.5"
-         x="315.85635"
-         y="208.70619">6</tspan></text><text
+         x="316.11234"
+         y="208.65837">6</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.81px;line-height:0.9;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
        x="325.99286"
-       y="209.85373"
+       y="208.61931"
        id="text477"><tspan
          sodipodi:role="line"
          id="tspan477"
          style="fill:#000000;stroke-width:0.5"
          x="325.99286"
-         y="209.85373">5</tspan></text><text
+         y="208.61931">5</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.81px;line-height:0.9;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
-       x="334.45584"
-       y="210.23622"
+       x="336.57254"
+       y="209.70706"
        id="text478"><tspan
          sodipodi:role="line"
          id="tspan478"
          style="fill:#000000;stroke-width:0.5"
-         x="334.45584"
-         y="210.23622">KAR</tspan></text><text
+         x="336.57254"
+         y="209.70706">KAR</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.81px;line-height:0.9;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
-       x="336.46402"
-       y="216.54762"
+       x="336.67114"
+       y="215.4893"
        id="text479"><tspan
          sodipodi:role="line"
          id="tspan479"
          style="fill:#000000;stroke-width:0.5"
-         x="336.46402"
-         y="216.54762">27</tspan></text><text
+         x="336.67114"
+         y="215.4893">27</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.81px;line-height:0.9;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
        x="349.0463"
-       y="208.87073"
+       y="209.73869"
        id="text480"><tspan
          sodipodi:role="line"
          id="tspan480"
          style="fill:#000000;stroke-width:0.5"
          x="349.0463"
-         y="208.87073">28</tspan></text><path
+         y="209.73869">28</tspan></text><path
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
        d="m 107.27795,146.62536 -0.17011,22.21674 h 16.09109"
        id="path480" /><path
@@ -12511,13 +12531,13 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.81px;line-height:0.9;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
        x="377.48804"
-       y="189.48514"
+       y="189.09389"
        id="text601"><tspan
          sodipodi:role="line"
          id="tspan601"
          style="fill:#000000;stroke-width:0.5"
          x="377.48804"
-         y="189.48514">2</tspan></text><text
+         y="189.09389">2</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.81px;line-height:0.9;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
        x="387.74405"
@@ -16292,4 +16312,6 @@
          id="tspan887"
          style="fill:#d40000;stroke:none;stroke-width:0.508"
          x="595.71973"
-         y="441.39188">?J48362(8A3PS2)</tspan></text></g></svg>
+         y="441.39188">?J48362(8A3PS2)</tspan></text></g><metadata
+     id="metadata889"><rdf:RDF><cc:Work
+         rdf:about=""><dc:date>1962-05-08</dc:date><dc:title>LGP-21 Flexowriter Schematic</dc:title><dc:identifier>L542-002-008</dc:identifier><dc:creator><cc:Agent><dc:title>General Precision, Inc.</dc:title></cc:Agent></dc:creator></cc:Work></rdf:RDF></metadata></svg>

@@ -6,6 +6,10 @@
 	(paper "A")
 	(title_block
 		(title "LGP-21 P & Q Register Board")
+		(date "2026-06-15")
+		(rev "ESD 1060")
+		(company "© 1962 General Precision; redrawn by Sam Hanes")
+		(comment 1 "https://github.com/Elemecca/lgp21-docs")
 	)
 	(lib_symbols
 		(symbol "Device:C_Small_US"
