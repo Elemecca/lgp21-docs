@@ -234,7 +234,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
@@ -256,7 +256,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "pq-register.kicad_pro",
+    "filename": "flex-tally-io.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -387,7 +387,7 @@
       "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
       "intersheets_ref_short": false,
-      "intersheets_ref_show": false,
+      "intersheets_ref_show": true,
       "intersheets_ref_suffix": "",
       "junction_size_choice": 3,
       "label_size_ratio": 0.375,
@@ -411,58 +411,38 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "pq-register.kicad_sch",
+        "filename": "flex-tally-io.kicad_sch",
         "name": "Root",
-        "uuid": "d5da316c-1ec9-4d99-8330-1c4a3f6c3ba4"
+        "uuid": "8a5bbf48-9d18-4aeb-9123-02235654547e"
       }
     ],
-    "used_designators": "#FLG1-5,J1,R1-63,R65-138,R145-152,R161,R167,R173-178,R182-187,R192-196,R198-202,R209-211,R214-220,R227-230,R241-242,R245-246,R249,R251-252,R255-256,R259-279,R281-309,R311-507,Q1-32,Q41,Q43,Q45-46,Q50-104,C1-4,C6-20,C25-43,CR1-10,CR13-29,#PWR1-310",
+    "used_designators": "Q3,Q5-6,Q9-11,Q16,Q19-22,Q24,Q27-29,Q32,Q38-39,Q54-55,Q59-62,Q65-66,Q71-89,C1-2,C6-8,C23-33,R1,R5-6,R9-12,R17-22,R24-25,R36-40,R46-51,R56,R65-69,R73-77,R81-101,R103,R107-117,R121-122,R128,R130-134,R142,R149-166,R169-172,R177-178,R184-185,R192-194,R200,R205,R210,R215,R217-218,R220,R235,R242-244,R247-250,R253-256,R259-262,R264-268,R271,R273-275,R278-279,R289-301,R304-305,R307-313,R318-336,R343-345,R350-353,R355,R358-364,R366-369,R382-439,R502,J1,J27,RV1,P1,CR2-4,CR7-9,CR13-15,CR26,CR41-65,#PWR111-112,#PWR116-118,#PWR135-332,#FLG1-5",
     "variants": []
   },
   "sheets": [
     [
-      "d5da316c-1ec9-4d99-8330-1c4a3f6c3ba4",
+      "8a5bbf48-9d18-4aeb-9123-02235654547e",
       "Root"
     ],
     [
-      "b6f4ff31-2cea-40f7-8f8f-a5c1ec1b5f82",
-      "P1"
+      "2bbc6e1f-e40d-4ecb-8b97-a38f1f47a4f4",
+      "Terms"
     ],
     [
-      "e36fc0be-aa10-48b3-a4d3-29effd58e727",
-      "P2"
+      "fe94b8e2-91d5-4075-9202-de2d53c8273a",
+      "Timing"
     ],
     [
-      "d17b2d0e-6ffc-4e5b-aa1e-f1f6863801f5",
-      "P3"
+      "2b06e654-9ae9-4340-b643-bcd2dc998dc4",
+      "Select"
     ],
     [
-      "f360006b-ddb2-4476-a806-4fab56f1b84d",
-      "P4"
+      "21b499b1-6b86-4666-91cf-4e5751b3e882",
+      "Flex Control"
     ],
     [
-      "57c22bd7-5c59-41f0-a879-47621ba4147d",
-      "P5"
-    ],
-    [
-      "340944d4-837d-4567-aad9-1a52ca59ecfa",
-      "P6"
-    ],
-    [
-      "f5a3ee66-2980-4c4b-9db6-5c1c30d0ba91",
-      "Q1"
-    ],
-    [
-      "8256428c-4bd9-4db2-955d-d6beccbf8ae1",
-      "Q2"
-    ],
-    [
-      "f1bfd5ae-8a8b-41b5-a3d1-70c5dff4adf1",
-      "Q3"
-    ],
-    [
-      "7676465d-7944-4da8-8fca-766339c3d3b6",
-      "Q4"
+      "130f7a31-4072-4aaa-9b31-b0c323f453cc",
+      "Flex Drivers"
     ]
   ],
   "text_variables": {},
