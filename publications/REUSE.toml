@@ -1,0 +1,12 @@
+version = 1
+
+[[annotations]]
+path = [
+    "LGP-21 Maintenance and Training Manual - ESD 1060 - Bitsavers.pdf",
+    "LGP-21 Maintenance and Training Manual - ESD 1060 - Stuttgart.pdf",
+    "LGP-21 Pamphlet.pdf",
+    "LGP-21 Programming Manual - Bitsavers.pdf",
+    "LGP-21 Reference Manual - Bitsavers.pdf",
+]
+SPDX-FileCopyrightText = "1963 General Precision, Inc."
+SPDX-License-Identifier = "LicenseRef-None"
